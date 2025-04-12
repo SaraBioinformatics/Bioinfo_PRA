@@ -209,5 +209,5 @@ Imagine you also have **mutation, methylation, and copy number variation** data.
 ## 📬 Contact
 
 If you have questions, feel free to reach out.
-
+saritamaurya822@gmail.com
 ---
