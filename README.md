@@ -1,4 +1,4 @@
-# Bioinformatics_Interview_PRA
+# Bioinformatics_PRA
 
 Here's a clean and professional version of your **README section** for a GitHub repository, formatted in Markdown style for clarity and structure:
 
